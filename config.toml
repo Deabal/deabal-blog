@@ -12,6 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-166045776-1"
 # disqusShortname = "yourdiscussshortname"
+ignoreFiles = ["Map.md"] # 把Map导航的md忽略
 
 [author]
   name = "Deabal"
