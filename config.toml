@@ -89,7 +89,7 @@ ignoreFiles = ["Map.md"] # 把Map导航的md忽略
 
   [[menu.nav]]
     name = "在线密码生成器"
-    url = "https://pw.deabal.cn/"
+    url = "https://encrypt.deabal.cn/"
     weight = 11
 
 
