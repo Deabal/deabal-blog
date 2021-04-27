@@ -1,11 +1,13 @@
 ---
-title: DataStructure
+title: Python DataStructure
 date: 2021-03-15T14:24:32+08:00
+lastmod: 2021-03-20T14:24:32+08:00
+author: Deabal
 toc: true
 images:
 tags:
   - Python
-  - 数据结构
+  - DataStructure
 ---
 
 # 算法分析

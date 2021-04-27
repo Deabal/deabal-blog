@@ -1,6 +1,7 @@
 ---
 title: "关于"
-date: "2021-03-19"
+date: 2021-03-19T15:36:51+08:00
+author: Deabal
 ---
 
 这里是Deabal，主力语言Python，Go，喜欢折腾各种新鲜好玩的技术。
